@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Liam Michel Photography"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -12,8 +12,8 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
+  author = "Liam Michel"
+  authorlocation = "Meadville, PA"
   authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
   logo = "images/logo.png"
