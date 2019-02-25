@@ -20,10 +20,10 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
-  # facebookName = ""
-  # linkedinName = ""
+  githubName = "Liam Micel"
+  facebookName = "Liam Michel"
+  linkedinName = "Liam Michel"
+  instagramName = "liammichel_photography"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
