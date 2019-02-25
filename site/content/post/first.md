@@ -1,5 +1,5 @@
 ---
-date: 2018-2-22T9:31:40.407Z
+date: 2019-02-20T10:15:23-04:00
 title: Welcome!
 ---
 Hey everyone! This website will contain my photography, alongside blog posts
