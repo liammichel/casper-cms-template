@@ -16,7 +16,7 @@ canonifyurls = true
   authorlocation = "Meadville, PA"
   authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
-  logo = "images/logo.png"
+  logo = "images/logo.svg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   
