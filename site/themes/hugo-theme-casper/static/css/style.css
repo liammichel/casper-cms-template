@@ -67,7 +67,7 @@ body {
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
-  text-shadow: 0px 2px 0px #8400ff;
+  text-shadow: 0px 2px 0px #6196ff;
   letter-spacing: 13px;
   margin: 0;
 }
@@ -75,7 +75,7 @@ body {
 .notfound a {
   font-family: 'Montserrat', sans-serif;
   display: inline-block;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: #ff005a;
   text-decoration: none;
   border: 2px solid;
@@ -84,11 +84,11 @@ body {
   font-size: 14px;
   font-weight: 700;
   -webkit-transition: 0.2s all;
-  transition: 0.2s all;
+  transition: 0.5s all;
 }
 
 .notfound a:hover {
-  color: #8400ff;
+  color: #1976d2;
 }
 
 @media only screen and (max-width: 767px) {
@@ -99,6 +99,6 @@ body {
 
 @media only screen and (max-width: 480px) {
   .notfound .notfound-404 h1 {
-      font-size: 182px;
+      font-size: 100px;
   }
 }
