@@ -11,7 +11,7 @@ body {
 #notfound {
   position: relative;
   height: 100vh;
-  background: #030005;
+  background: #6196ff;
 }
 
 #notfound .notfound {
@@ -25,8 +25,8 @@ body {
 
 .notfound {
   max-width: 767px;
-  width: 100%;
-  line-height: 1.4;
+  width: 60%;
+  line-height: 1.2;
   text-align: center;
 }
 
@@ -34,7 +34,6 @@ body {
   position: relative;
   height: 180px;
   margin-bottom: 20px;
-  z-index: -1;
 }
 
 .notfound .notfound-404 h1 {
