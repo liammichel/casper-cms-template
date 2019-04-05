@@ -27,3 +27,26 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = "your_twitter"
+
+[[menu.main]]
+name= "home"
+url= "/"
+weight = 200
+
+[[menu.main]]
+name= "photos"
+url= "/"
+weight = 200
+
+
+[[menu.main]]
+name= "blog"
+url= "/"
+weight = 200
+
+
+
+[[menu.main]]
+name= "contact"
+url= "/"
+weight = 200
