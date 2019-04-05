@@ -29,24 +29,24 @@ canonifyurls = true
     twitter = "your_twitter"
 
 [[menu.main]]
-name= "home"
+name= "Home"
 url= "/"
 weight = 200
 
 [[menu.main]]
-name= "photos"
+name= "Photos"
 url= "/"
 weight = 200
 
 
 [[menu.main]]
-name= "blog"
+name= "Blog"
 url= "/"
 weight = 200
 
 
 
 [[menu.main]]
-name= "contact"
+name= "Contact"
 url= "/"
 weight = 200
