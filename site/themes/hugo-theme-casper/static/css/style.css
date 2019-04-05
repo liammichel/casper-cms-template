@@ -34,7 +34,7 @@ body {
   position: relative;
   height: 180px;
   margin-bottom: 20px;
-
+  z-index: -1;
 }
 
 .notfound .notfound-404 h1 {
@@ -67,7 +67,7 @@ body {
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
-  text-shadow: 0px 2px 0px #6196ff;
+  text-shadow: 0px 2px 0px #8400ff;
   letter-spacing: 13px;
   margin: 0;
 }
@@ -76,7 +76,7 @@ body {
   font-family: 'Dokdo', sans-serif;
   display: inline-block;
   text-transform: lowercase;
-  color: #3651ff;
+  color: #ff005a;
   text-decoration: none;
   border: 2px solid;
   background: transparent;
@@ -84,7 +84,7 @@ body {
   font-size: 14px;
   font-weight: 700;
   -webkit-transition: 0.2s all;
-  transition: 0.5s all;
+  transition: 0.2s all;
 }
 
 .notfound a:hover {
