@@ -35,18 +35,18 @@ weight = 200
 
 [[menu.main]]
 name= "Photos"
-url= "/"
+url= "/photos"
 weight = 200
 
 
 [[menu.main]]
 name= "Blog"
-url= "/"
+url= "/blog"
 weight = 200
 
 
 
 [[menu.main]]
 name= "Contact"
-url= "/"
+url= "/contact"
 weight = 200
